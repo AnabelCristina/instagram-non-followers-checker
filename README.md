@@ -21,6 +21,7 @@ Ele processa arquivos JSON exportados da sua conta e gera uma lista organizada d
 
 2. **Colocar os arquivos no projeto:**
    - Copie os arquivos "following.json" e "followers_1.json" **para a raiz do projeto**, ou seja, na mesma pasta onde está o script Python.
+   
    ![alt text](image-1.png)
 
 3. **Executar o script:**
